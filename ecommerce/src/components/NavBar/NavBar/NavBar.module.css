@@ -1,0 +1,23 @@
+.background{
+    background-color:#153a37;
+    display: flex;
+    padding: 4px;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 100vh ;
+
+}
+
+.font{
+    color: #a59380;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.button{
+    background: #8c7c6c;
+    color: white;
+    margin: 10;
+    border-radius: 50px;
+}
