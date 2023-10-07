@@ -7,7 +7,7 @@ const NavBar = () => {
         <section>
             <button className={classes.button}>Bebidas</button>
             <button className={classes.button}>Lacteos</button>
-            <button className={classes.button}>Alchol</button>
+            <button className={classes.button}>Alcohol</button>
             <button className={classes.button}>Limpieza</button>
         </section>
         <CartWdiget />
